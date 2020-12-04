@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">aquiz</string>
+    <string name="my_awesome_quiz1">My Awesome Quiz</string>
+    <string name="highscore_01">Highscore: 0</string>
+    <string name="start_quiz1">Start Quiz</string>
+</resources>
